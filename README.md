@@ -50,6 +50,7 @@ streamlit-dashboard/
 ├── app.py              # Main application entry point
 ├── components/         # Reusable UI components
 ├── data/               # Sample datasets
+├── Modules/               # Modules with __init__.py
 ├── utils/              # Helper functions
 ├── requirements.txt    # Python dependencies
 └── README.md
