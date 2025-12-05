@@ -23,8 +23,8 @@ with col_center:
 
 with col_right:
     # Replace with your actual logo path or URL
-    # st.image("path/to/right_logo.png", width=120)
-    st.markdown("**[Right Logo]**")
+    st.image("rice-logo.jpg", width=120)
+    # st.markdown("**[Right Logo]**")
 
 st.divider()
 
