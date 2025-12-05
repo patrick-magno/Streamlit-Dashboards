@@ -16,7 +16,7 @@ col_left, col_center, col_right = st.columns([1, 3, 1])
 with col_left:
     # Replace with your actual logo path or URL
     st.image("Uber-logo.png", width=120)
-    st.markdown("**[Left Logo]**")
+    #st.markdown("**[Left Logo]**")
 
 with col_center:
     st.markdown("<h1 style='text-align: center;'>HBR - UBER Case Study Dashboard</h1>", unsafe_allow_html=True)
