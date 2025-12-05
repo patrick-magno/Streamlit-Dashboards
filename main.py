@@ -15,7 +15,7 @@ col_left, col_center, col_right = st.columns([1, 3, 1])
 
 with col_left:
     # Replace with your actual logo path or URL
-    # st.image("Uber-logo.png", width=120)
+    st.image("Uber-logo.png", width=120)
     st.markdown("**[Left Logo]**")
 
 with col_center:
